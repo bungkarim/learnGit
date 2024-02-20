@@ -6,3 +6,5 @@ Baris 2 - Ini adalah perubahan kedua pada README.md saya yang saya lakukan mengg
 Baris 3 - Ini adalah perubahan ketiga pada README.md saya melalui editor teks di GitHub yang akan saya gunakan untuk memahami konsep pull
 
 Baris 4 - Ini adalah perubahan keempat pada README.md saya di branch lokal newBranch guna mempelajari GitHub Branch Push
+
+Baris 5 - Baris tambahan untuk mempelajari tentang push. Ini tidak ada di materi W3School, ini adalah inisiatif saya sendiri.
